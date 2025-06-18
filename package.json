@@ -1,0 +1,40 @@
+{
+  "name": "country-state-city-api",
+  "version": "1.0.0",
+  "description": "A lightning-fast, high-performance REST API built with Fastify to serve comprehensive Country, State, and City data",
+  "main": "server.js",
+  "keywords": [
+    "api",
+    "rest",
+    "country",
+    "state",
+    "city",
+    "geographical",
+    "location",
+    "fastify",
+    "nodejs",
+    "json",
+    "iso",
+    "geography"
+  ],
+  "author": "Nitishkumar <nitishkumar.blog@.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/csc-api.git"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "fastify": "^4.26.2",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
