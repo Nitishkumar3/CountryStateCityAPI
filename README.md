@@ -2,7 +2,7 @@
 
 [![Node.js](https://img.shields.io/badge/Node.js-16%2B-green.svg)](https://nodejs.org/)
 [![Fastify](https://img.shields.io/badge/Fastify-4.x-blue.svg)](https://www.fastify.io/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)]
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A lightning-fast, high-performance REST API built with Fastify to serve comprehensive Country, State, and City data. Perfect for building address forms, location-based applications, and geographical data services.
 
